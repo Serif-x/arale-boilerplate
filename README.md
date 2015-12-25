@@ -1,4 +1,4 @@
-# arale-boilerplate
+# Arale-Boilerplate
 
 -----
 
